@@ -1,0 +1,44 @@
+.graphkasotory{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    /* justify-content: space-evenly; */
+    /* align-items:flex-start; */
+
+  }
+
+ .chatii{
+    position: relative;
+    /* padding: 20px; */
+    height: 250px;
+ } 
+
+ .centerii{
+    position: absolute;
+    left: 33px;
+    top: 97px;
+ }
+
+ .centeriiii{
+    position: absolute;
+    left: 77px;
+    top: 91px;
+   
+ }
+
+ .cicloo{
+    position: relative;
+ }
+ .chatiooi{
+    position: relative;
+    height: 250px;
+    
+ }
+
+ .grauyephk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 300px; */
+ 
+ }

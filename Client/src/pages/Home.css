@@ -1,0 +1,431 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:300);
+.landingimagehai{
+    height: 80vh;
+}
+
+.headingprimises{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 141.9%;
+/* or 57px */
+text-align: center;
+
+color: #1F1F1F;
+}
+
+.textprimises{
+    
+    /* width: 89%; */
+    padding: 12px;
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 17.9179px;
+line-height: 164.9%;
+/* or 41px */
+
+text-align: center;
+
+
+color: #434343;
+}
+
+.vechieleselection{
+    
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 141.9%;
+/* or 79px */
+
+
+color: #1F1F1F;
+margin-left: 2rem;
+}
+
+.textselectionprocess{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 150.4%;
+/* or 36px */
+margin-left: 2rem;
+margin-top: 1rem;
+
+letter-spacing: 0.03em;
+
+color: #1F1F1F;
+}
+
+.Reviewhaibhai{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 141.9%;
+    /* or 79px */
+    
+    text-transform: capitalize;
+    
+    color: #1F1F1F; 
+}
+
+.reviewtexthai{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 41px;
+    
+    color: #434343;
+}
+
+.namereview{
+   
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 23px;
+line-height: 35px;
+
+color: #12B7B6; 
+}
+
+.whatwedohm{
+    margin-left: 2rem;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 141.9%;
+/* or 79px */
+
+
+color: #1F1F1F;
+}
+
+.headingwhatwedo{
+  
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 133.4%;
+    /* or 35px */
+    
+    letter-spacing: 0.005em;
+    
+    color: #1F1F1F; 
+    text-align: center;
+}
+
+.whatwetext{
+    margin-top: 1rem;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 150.4%;
+/* or 36px */
+
+letter-spacing: 0.03em;
+
+color: #000000;
+}
+
+.contacthai{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 150.4%;
+    /* or 36px */
+    
+    letter-spacing: 0.03em;
+    
+    color: #E0E0E0;  
+}
+
+.inputcontact{
+   
+    padding: 10px 146px 20px 9px;
+    background: #2D2D2D;
+    box-shadow: inset -10px -10px 30px #2B2B2B, inset 10px 10px 30px rgba(0, 0, 0, 0.45);
+    border-radius: 22px;
+    margin-top: 17px;
+    color: white;
+}
+.btncontacthai{
+    background: #2D2D2D;
+    box-shadow: -10px -10px 30px #2B2B2B, 10px 10px 30px rgba(0, 0, 0, 0.45);
+    border-radius: 14px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 133.4%;
+    letter-spacing: 0.005em;
+    color: #12B7B6;
+    padding: 13px;
+    /* margin-left: -130px */
+    margin-top: 1rem;
+}
+
+.backgroundcontact{
+    background: #2D2D2D;
+    height: 83vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.primisesdivhai{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.insideprimisis{
+    width: 35%;
+    height: 85vh;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 43px;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+   
+}
+.imageprimises{
+    height: 40%;
+}
+
+.primisesimagehaii{
+    width: 100%;
+    height: 100%;
+    /* object-fit: cover; */
+    /* border-radius: 30px; */
+}
+
+.vichiledivhai{
+     margin-top: 2rem;
+}
+
+.Reviewhaibhai{
+    margin-left: 2rem;
+}
+.reviewsectionhai{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+
+.singlereview{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 28%;
+    height: 60vh;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.imageiconscom{
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 6rem;
+}
+
+.imagekabaap{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    /* margin-left: 1rem; */
+}
+.primisesimago{
+   
+   
+    height: 50%;
+    margin-top: 4rem;
+}
+.primisesimag{
+    height: 75%;
+   
+    /* height: 50%; */
+    /* margin-top: 4rem; */
+}
+
+.starthai{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    color: #b1b048;
+    margin-left: 10px;
+}
+
+.whatwedodivhai{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+
+.whatwedodiv1{
+    width: 27%;
+    height: 70vh;
+}
+
+.iconplacement{
+    height: 50%;
+}
+
+.darkset{
+    position: absolute;
+    left: 4px;
+    top: 9px;
+}
+
+.imagecontact{
+    /* width: 110%; */
+    width: 60%;
+    height: 100%;
+    /* background: red; */
+}
+
+.formcontacthai{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 34%;
+    padding: 0px;
+    gap: 0em;
+}
+
+
+.headingcontact{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    height: 10%;
+    
+}
+
+.a4network{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 141.9%;
+    /* or 79px */
+    
+    letter-spacing: 0.06em; 
+    color: #12B7B6
+}
+
+.contactkaimage{
+    /* height: 100vh; */
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.texxtformcenter{
+    margin-left: 3rem;
+}
+
+.selctionpathclass{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.context-dark, .bg-gray-dark, .bg-primary {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+    color: #ffffff;
+}
+.nav-list li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-list li a:hover:before {
+    margin-left: 0;
+    opacity: 1;
+    visibility: visible;
+}
+
+ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 23px;
+    font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.5);
+}
+.social-container .col {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.nav-list li a:before {
+    content: "\f14f";
+    font: 400 21px/1 "Material Design Icons";
+    color: #4d6de6;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-left: -28px;
+    margin-right: 7px;
+    opacity: 0;
+    visibility: hidden;
+    transition: .22s ease;
+}
+
+.rmoooo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.sudharna{
+    
+   height: 45%; 
+   width: 100%;
+}
+
+.meraparesani{
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 40px;
+    margin-top: -10px;
+}

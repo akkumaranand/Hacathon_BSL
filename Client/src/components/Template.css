@@ -1,0 +1,43 @@
+.logindiv{
+    padding: 50px 50px 50px;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 20px;
+    /* border: 2px solid black; */
+}
+
+.checking{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    /* border: 2px solid rgb(26, 28, 26); */
+    /* width: 100%; */
+    height: 80vh;
+    margin-top: 7vh;
+}
+
+.templateadjustment{
+    /* margin-top: -30px; */
+    height: 40%;
+    /* border: 2px solid black; */
+    width: 100%
+}
+
+.formtemplatehai{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px 30px 30px;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 20px;
+    /* border: 2px solid black; */
+    overflow-y: scroll;
+    width: 36%;
+    gap: 2rem;
+    margin-left: 3rem;
+}
+
+.maipagalhu{
+    width: 94%;
+}

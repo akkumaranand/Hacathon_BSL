@@ -1,0 +1,23 @@
+.wrapper {
+    border-radius: 30px;
+
+    font-size: 12px;
+    /* margin: 2px 0px 12px 0px; */
+    color: #181b1b;
+    background: #F3F3F3;
+    padding: 2px;
+    
+   }
+   .ciclechartt{
+    font-size: 13px;
+    background: #F3F3F3;
+    margin: 10px 3px 5px 10px ;
+    transform: rotate(1deg);
+   }
+
+   .wrapp{
+    font-size: 15px;
+    
+   }
+
+ 

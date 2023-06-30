@@ -1,0 +1,186 @@
+.cardcollection1 {
+
+    padding: 0 40px;
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.cardcollection1-h1 {
+    margin-top: 10px;
+
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35.7313px;
+    line-height: 141.9%;
+    /* identical to box height, or 51px */
+
+    letter-spacing: 0.06em;
+
+    color: #1F1F1F;
+}
+
+
+.card-dashbord {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-dashboard {
+    width: 100.27px;
+    height: 81px;
+    border-radius: 17.8462px;
+
+}
+
+.img-dashboard img {
+    width: 100%;
+    height: 100%;
+    border-radius: 17.8462px;
+
+}
+
+.flex-dashboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.busname-dashboard h2 {
+    margin-left: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30.1231px;
+
+    line-height: 43px;
+    /* or 133% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.route-dashboard {
+    width: 30%;
+    display: flex;
+    /* background-color: aqua; */
+    align-items: center;
+
+}
+
+.routeicon {
+    margin-left: 20px;
+    font-family: 'Montserrat';
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20.8462px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.cardcollection2 {
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: row; */
+
+    background-color: aqua;
+
+    flex-direction: row;
+    width: 95%;
+
+    margin-top: 24px;
+    background: #F3F3F3;
+    box-shadow: -15px -15px 15px #FFFFFF, 10px 10px 10px #D2D2D2;
+    height: 42%;
+    border-radius: 40px;
+    margin-left: 20px;
+
+}
+
+.image {
+    flex: 0.4;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.image img {
+    border-radius: 46.85px;
+    width: 129px;
+    height: 117px;
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+.route-busdriver-path {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21.6667px;
+    line-height: 136%;
+
+    align-items: center;
+    color: #352555;
+}
+
+.detail-busdriver {
+    flex: 0.6;
+
+}
+
+.detail-busdriver h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 171.4%;
+    /* or 53px */
+    color: #434343;
+}
+
+
+.information-busdriver {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.1044px;
+    line-height: 133.4%;
+    /* identical to box height, or 23px */
+
+    letter-spacing: 0.005em;
+
+    color: #242929;
+
+    opacity: 0.9;
+}
+
+.information-value {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.2px;
+    line-height: 29px;
+    text-align: center;
+    margin-left: 40px;
+    color: #352555;
+}

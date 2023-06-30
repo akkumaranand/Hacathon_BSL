@@ -1,0 +1,674 @@
+body {
+    background-color: #F3F3F3;
+}
+
+
+
+
+
+
+    .service-top {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 3rem;
+    }
+
+
+
+.illustrator-service {
+    /* flex: 0.5; */
+    width: 45%;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 43px;
+
+
+}
+
+.illustrator-service img {
+    padding: 43px 29px 1px 44px;
+    /* width: 100%; */
+    /* height: 100%; */
+    /* object-fit: cover; */
+    /* border-radius: 43px; */
+    /* box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2; */
+}
+
+.form-service {
+    flex: 0.3 1;
+    margin-right: 25px;
+    line-height: 100%;
+    gap: 20px;
+    padding: 20px;
+
+
+}
+
+.form-service label {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 700px;
+    list-style: 54.85px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+
+}
+
+.from {
+    margin-top: 50px;
+
+    /* background-color: #12B7B6; */
+}
+
+.form-service input,
+.form-service button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 400px;
+    height: 58px;
+    border: none;
+    background-color: #F3F3F3;
+    box-shadow: inset -10px -10px 20px #FFFFFF, inset 10px 10px 20px rgba(0, 0, 0, 0.09);
+    border-radius: 15px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 157.4%;
+    font-family: 'Montserrat';
+    color: #12B7B6;
+    padding: 0px 0px 0px 21px;
+
+}
+
+.form-service input::placeholder {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 20px;
+    font-size: 19px;
+    line-height: 157.4%;
+    letter-spacing: 0.005em;
+    align-content: center;
+    color: #12B7B6;
+
+}
+
+.form-service button {
+
+    color: #12B7B6;
+    height: 68px;
+    font-weight: 400;
+    font-size: 30px;
+    background: #F3F3F3;
+   box-shadow: -10px -10px 20px #FFFFFF, 10px 10px 20px rgba(0, 0, 0, 0.09);
+
+
+}
+
+.form-service button:focus {
+    box-shadow: inset -10px -10px 20px #FFFFFF, inset 10px 10px 20px rgba(0, 0, 0, 0.09);
+    border: 1px solid #12B7B6;
+}
+
+.bus-card {
+    margin-top: 90px;
+
+}
+
+.bus-card h1 {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 141.9%;
+
+    margin-bottom: 30px;
+    letter-spacing: 0.06em;
+
+    color: #1F1F1F;
+}
+
+
+
+
+
+
+
+
+/* css of Card.jsx */
+
+.cardCollection-service {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-service {
+    width: 28%;
+    height: 555px;
+    display: flex;
+    flex-direction: column;
+
+    background-color: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 43px;
+}
+
+.photo-service {
+    width: 100%;
+    height: 52%;
+}
+
+.photo-service img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+
+    background: #F3F3F3;
+
+}
+
+.detail-service {
+    flex: 0.5;
+}
+
+.detail-service h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 131.9%;
+    display: flex;
+    justify-content: center;
+    color: #1F1F1F;
+    margin-top: 1rem;
+}
+
+.detail-service p {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    /* line-height: 164.9%; */
+    text-align: center;
+    /* letter-spacing: -0.04em; */
+    color: #434343;
+    padding: 10px;
+}
+
+
+
+/* css of Card_bus.jsx */
+
+.Card_bus-service {
+    margin-top: 90px;
+
+}
+
+.heading-service {
+    margin-left: 2rem;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 141.9%;
+
+    margin-bottom: 40px;
+    letter-spacing: 0.06em;
+
+    color: #1F1F1F;
+}
+
+
+
+.Card_bus {
+    width: 45%;
+    height: 200px;
+    background-color: #12B7B6;
+    background: #F3F3F3;
+    box-shadow: -27.7487px -27.7487px 69.3717px #FFFFFF, 27.7487px 27.7487px 69.3717px #D2D2D2;
+    border-radius: 59.6597px;
+    padding: 15px;
+    margin-bottom: 80px;
+
+}
+
+.wrap-service {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.busName {
+
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blue; */
+    align-items: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+
+.busName h2 {
+
+
+    margin-left: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 25px;
+
+    color: #3E548D;
+
+
+}
+
+.busName .time {
+    margin-right: 50px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24.9738px;
+    line-height: 37px;
+    color: #3E548D;
+}
+
+.card_bus_detail {
+    margin-top: 15px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(71, 221, 65); */
+    align-items: center;
+    margin-left: 40px;
+}
+
+.source {
+
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+.card_bus_detail .icon {
+
+    Width: 83.96px;
+    height: 45px;
+    background: #12B7B6;
+    border-radius: 13.8743px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card_bus_detail .detail {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    color: #455A64;
+}
+
+.card_bus_detail .detail h1 {
+    margin: 0px;
+}
+
+.Card_bus_travel .source,
+.Card_bus_travel .destination {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.destination {
+
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: #1F1F1F; */
+    /* height: 20px; */
+    /*  */
+}
+
+.card_bus_detail .detail h1 {
+    margin: 0px;
+
+}
+
+.button {
+    Width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    /* background-color: #12B7B6; */
+}
+
+.card_bus_detail button {
+    margin-right: 40px;
+    Width: 70%;
+    /* Width: 237px; */
+    height: 58.68px;
+    background: #12B7B6;
+    box-shadow: 0px 5.54974px 13.8743px rgba(0, 0, 0, 0.16);
+    border-radius: 13.8743px;
+    border: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18.0366px;
+    line-height: 27px;
+
+    color: #F5F5F5;
+
+}
+
+
+
+
+/* booking css */
+
+
+.booking_heading {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 46px;
+    line-height: 141.9%;
+    letter-spacing: 0.06em;
+    color: #1F1F1F;
+    margin-left: 2rem;
+
+}
+
+.booking_main {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+    padding: 80px;
+}
+
+.booking {
+
+
+    flex: 0.3;
+    width: 40%;
+    /* background-color: #12B7B6; */
+    height: 850px;
+
+    box-shadow: -21.036px -21.036px 52.5899px #FFFFFF, 21.036px 21.036px 52.5899px #D2D2D2;
+    border-radius: 45.2273px;
+}
+
+.seat-matrix {
+    flex: 0.4;
+    width: 50%;
+    padding: 0 40px;
+    background-color: #1F1F1F;
+    background: #F3F3F3;
+    box-shadow: -21.036px -21.036px 52.5899px #FFFFFF, 21.036px 21.036px 52.5899px #D2D2D2;
+    border-radius: 45.2273px;
+
+}
+
+.map-matrix {
+    flex: 0.4;
+    width: 50%;
+    /* padding: 0 40px; */
+    background-color: #1F1F1F;
+    background: #F3F3F3;
+    box-shadow: -21.036px -21.036px 52.5899px #FFFFFF, 21.036px 21.036px 52.5899px #D2D2D2;
+    border-radius: 45.2273px;
+}
+
+.bookingbus-detail {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    width: 100%;
+    height: 100%;
+}
+
+.bookingbusimg {
+    width: 100%;
+    height: 50%;
+
+}
+
+.bookingbusimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 36px;
+}
+
+.bookingbus-detail h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 171.4%;
+    color: #434343;
+    text-align: center;
+
+}
+
+.bookingbusdetail {
+
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.path {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #e16060; */
+    align-items: center;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.path img {
+    /* background: #3E4958; */
+    /* Black */
+    width: 15.33px;
+    height: 42.8px;
+}
+
+.path .route {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15.1667px;
+    line-height: 136%;
+    color: #352555;
+}
+
+.from-route {
+    border-bottom: 1px solid grey;
+
+}
+
+.busno p,
+.status p,
+.contactno p {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15.652px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #352555;
+}
+
+.busno h3,
+.status h3,
+.contactno h3 {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18.2027px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #352555;
+}
+
+.btn-booking {
+    width: 60%;
+    height: 65px;
+    /* background-color: #F9F9F9; */
+    box-shadow: -10px -10px 20px #FFFFFF, 10px 10px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 42.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #3E548D; */
+    align-self: center;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+
+    line-height: 133.4%;
+    /* or 29px */
+
+    text-align: center;
+    letter-spacing: 0.005em;
+
+    color: #12B7B6;
+}
+
+.booking-icon {
+    margin-left: 20%;
+    background-color: #F9F9F9;
+    box-shadow: inset -20px -20px 20px #FFFFFF, inset 10px 90px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 42.5px;
+
+}
+
+.container-ticket {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.demo {
+    /* background-color: #352555; */
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    margin: 13px;
+}
+
+.ava {
+    /* background-color: #12B7B6; */
+    text-align: center;
+
+
+}
+
+.booked-demo {
+    margin-top: 10px;
+    text-align: center;
+    /* background-color: #12B7B6; */
+}
+
+.demo p,
+.booked-demo p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22.75px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #3E548D;
+}
+
+
+
+.seat-container {
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #12B7B6; */
+}
+
+
+.bus-seats {
+    /* background-color: #352555; */
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.seat {
+
+    width: 77%;
+    height: 71px;
+    size: 200px;
+    margin: 5px;
+    color: #12B7B6;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.booked {
+    /* background-color: red; */
+    color: #D84130;
+
+
+    cursor: not-allowed;
+}
+
+#btn {
+
+
+    font-size: 20px;
+}
+
+.headingservice{
+    margin-left: 2rem;
+}
+
+.imagehaiservice{
+    width: 100%;
+    height: 100%;
+    /* object-fit: cover; */
+    border-radius: 30px 30px 0px 0px;
+    /* filter: grayscale(1); */
+    /* margin-bottom: 2rem; */
+}

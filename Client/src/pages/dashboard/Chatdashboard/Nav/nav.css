@@ -1,0 +1,15 @@
+.nav {
+    width: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0 15px;
+    padding-top: 30px;
+   
+}
+
+.nav img {
+    display: block;
+    max-width: 100%;
+    cursor: pointer;
+}

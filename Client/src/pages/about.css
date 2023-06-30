@@ -1,0 +1,452 @@
+
+
+
+
+
+
+.maintextheading{
+ font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 141.9%;
+/* or 77px */
+}
+
+.vision-text{
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 164.9%;
+/* or 43px */
+
+text-align: center;
+letter-spacing: -0.04em;
+
+color: #434343;
+}
+
+.aboutlifeheading{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 141.9%;
+/* or 79px */
+
+display: flex;
+align-items: center;
+
+color: #1F1F1F;
+}
+
+.textobjective{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.4%;
+    /* or 36px */
+    
+    letter-spacing: 0.03em;
+    
+    color: #1F1F1F;   
+}
+
+.personname{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 133.4%;
+/* or 35px */
+
+letter-spacing: 0.005em;
+}
+
+.founderco{
+    text-align: center;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 133.4%;
+/* or 35px */
+
+letter-spacing: 0.055em;
+text-transform: capitalize;
+
+color: #1F1F1F;
+}
+
+.personabouttext{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 173.5%;
+/* or 45px */
+
+letter-spacing: 0.01em;
+
+color: #1F1F1F;
+}
+
+.mapheading{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 141.9%;
+/* or 79px */
+
+text-transform: capitalize;
+
+color: #1F1F1F;
+}
+
+.maptextabout{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 173.5%;
+/* or 45px */
+
+letter-spacing: 0.01em;
+
+color: #1F1F1F;
+}
+
+.addressmaptext{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150.4%;
+/* or 36px */
+
+letter-spacing: 0.03em;
+
+color: #545454;
+}
+
+.contactaboutheading{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 141.9%;
+/* or 85px */
+
+
+color: #1F1F1F;
+}
+
+.contactaboutsubheading{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 161.9%;
+/* or 57px */
+
+text-align: center;
+
+color: #1F1F1F;
+
+}
+.btnsweet{
+
+    font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 133.4%;
+/* identical to box height, or 35px */
+
+letter-spacing: 0.005em;
+
+color: #12B7B6;
+background: #F3F3F3;
+box-shadow: -10px -10px 20px #FFFFFF, 10px 10px 20px rgba(0, 0, 0, 0.09);
+
+border-radius: 20px;
+padding: 20px;
+
+opacity: 0.9;
+}
+.btnsweetoo{
+    font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 133.4%;
+/* identical to box height, or 35px */
+
+letter-spacing: 0.005em;
+
+color: #122b2b;
+
+opacity: 0.9;
+}
+
+.mainview-right{
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 43px;
+    width: 55%;
+    height: 85%;
+    /* border: 2px solid green; */
+}
+
+.imgageillustrator{
+    width: 100%;
+    height: 100%;
+}
+
+.mainview-left{
+    width: 30%;
+    height: 620px;
+    margin-top: 20vh;
+}
+.aboutmainview{
+    display: flex;
+    flex-direction: row;
+    /* gap: 4rem; */
+    height: 90vh;
+    justify-content: space-evenly;
+    width: 100vw;
+}
+
+.firstabout{
+    height: 100vh;
+    width: 100vh;
+}
+
+.about-service{
+    height: 60px;
+    width: 90vw;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 23px;
+    margin-top: -30px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 3.5rem;
+    
+
+
+}
+
+.about-life{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    justify-content: space-evenly;
+}
+
+.visionabout{
+    margin-top: 5%;
+    width: 27%;
+    height: 70vh;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 30px;
+    /* margin-top: 20px; */
+}
+
+.uppervision-part{
+    height: 35%;
+    margin: 5%;
+}
+
+.visionimagehai{
+   width: 100%;
+   height: 100%;
+
+}
+
+.adjustmentdsystem{
+    height: 70%;
+    width: 30px;
+}
+
+.lowervision-part{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.vision-text{
+    padding: 20px;
+}
+
+.object1{
+    margin: 1rem;
+    height: 10%;
+    width: 83%;
+    /* border: 2px solid rgb(120, 44, 44); */
+    display: flex;
+    /* justify-content: flex-end; */
+    align-items: center;
+    /* padding: 20px; */
+    
+}
+
+.aboutour-objective{
+    height: 70vh;
+    /* border: 2px solid yellow; */
+   
+    
+}
+
+.headingobjective{
+margin-left: 1.5rem;
+ font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 141.9%;
+/* or 79px */
+
+
+color: #1F1F1F;
+}
+
+.placementkarnahai{
+    display: flex;
+    flex-direction:column;
+    align-items: flex-end;
+    justify-content: center;
+    margin-right: 2rem;
+}
+
+.imageplacement{
+    position: relative;
+    width: 10%;
+    /* height: 10%; */
+    margin-right: 2rem;
+}
+.objilluuu{
+   
+    position: absolute;
+    left: 14px;
+    top: 15px;
+}
+.imgageillur{
+    height: 100%;
+}
+
+.objectivesponsers{
+    height: 110vh;
+}
+
+.ourcclientimage{
+   margin: 0rem -3rem 0rem -17rem;
+}
+
+.teamimage{
+    margin-top: 2rem;
+    /* height: 90%; */
+    width:27% ;
+    border: #1F1F1F;
+     background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 30px;
+}
+
+.Ananpichai{
+    /* object-fit: cover; */
+    width: 100%;
+}
+
+.teamstatus{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.textareaabout{
+    width: 40%;
+    margin-top: 4rem;
+}
+
+.ourteamshow{
+    margin-top: 2rem;
+}
+
+
+.maphaibhai{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* align-items: space-evenly; */
+    height: 70vh;
+    /* margin-top: 2rem; */
+
+}
+
+.laction-divtext{
+    width: 40%;
+    /* border: 2px solid greenyellow; */
+}
+
+.imagemap{width: 30%;
+    background: #F3F3F3;
+    box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #D2D2D2;
+    border-radius: 30px;
+
+    
+    /* border: 2px solid green; */
+}
+.mapimagehaibhai{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 24px;
+}
+
+.laction-divtext{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.socialmedaiicons{
+    margin-top: 1.0rem;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.icons{
+    color: #12B7B6;
+    font-size: 20px;
+}
+
+.constactusformabout{
+    height: 50vh;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.inputBox{
+    background: #F3F3F3;
+box-shadow: inset -10px -10px 20px #FFFFFF, inset 10px 10px 20px rgba(0, 0, 0, 0.09);
+border-radius: 15px;
+border-radius: 15px;
+padding: 15px;
+}
+
+.btnscss{
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    width: 60%;
+}

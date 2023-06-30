@@ -1,0 +1,71 @@
+.cardcollection3 {
+    margin-top: 5px;
+    margin-left: 0px;
+    width: 100%;
+    max-height: 100%;
+   cursor:pointer
+}
+
+.card-dashbord1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+.flex-dashboard2 {
+    width: 50%;
+
+    display: flex;
+    justify-content: space;
+    align-items: center;
+    text-align: center;
+}
+
+.img-dashboard2 {
+    width: 30%;
+    height: 100%;
+}
+
+.img-dashboard2 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.busname-dashboard1 {
+    margin-left: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+
+    line-height: 43px;
+
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.route-dashboard1 {
+
+    display: flex;
+
+    align-items: center;
+}
+
+.routeicon1 {
+
+    font-family: 'Montserrat';
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 21px;
+    color: #000000;
+    margin-right: 10px;
+}
